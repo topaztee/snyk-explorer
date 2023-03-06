@@ -1,4 +1,5 @@
 # snyk-explorer
+#gtp-3 #openapi
 Built for hackathon: https://nextgrid.ai/event/openai-gpt-3-hackathon-deep-learning-labs-2/
 What does it do: It scraped the results off of https://snyk.io/advisor/ and uses it as training data for openai
 
